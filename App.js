@@ -21,7 +21,7 @@ Hints:
   attention to the onChangeText (event that occurs when typing into the TextInput) and also
   onSubmitEditing (event that occurs when the user presses the return key) - write event handler
   functions for both!
-- Styles are already written (in styles.js) and applied, so there's no need to modify them, unless
+- Styles are already written and applied, so there's no need to modify them, unless
   you want to!
 */
 
